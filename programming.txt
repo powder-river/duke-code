@@ -4,4 +4,9 @@
 
 3.  Duke Unique IDs can be 7 digits numbers.  Or for the case of service accounts, they can be 10 digit numbers starting with a "1".  Write a regular expression that can be used to match against a valid Duke Unique ID.
 
-Try these with one or more of the following languages - Java, Python, Ruby, and/or Perl.
+4.  Write a recursive method that calculates the factorial of an integer.
+
+5.  Give an example of a design pattern you've used in the past and how it helped solve a problem.
+
+
+Try the programming questions using one or more of the following languages - Java, Python, Ruby, and/or Perl.
