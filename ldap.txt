@@ -1,6 +1,10 @@
 ***LDAP CHALLENGE***
 
-Without access to the Duke network, there is only one way that you can find out my Duke IDs, and that's through an anonymous connection to our LDAP server (ldap.duke.edu).  There are multiple ways to make this connection (using ldapsearch at the command line, or an ldap browser like jxplorer, or binding a web application to it on port 389).  What attributes can you find about a user through this method?
+Without access to the Duke network, there is only one way that you can find out my Duke IDs,
+and that's through an anonymous connection to our LDAP server (ldap.duke.edu).
+There are multiple ways to make this connection (using ldapsearch at the command line,
+or an ldap browser like jxplorer, or binding a web application to it on port 389).
+What attributes can you find about a user through this method?
 
 
 ***INTERNAL CANDIDATES***

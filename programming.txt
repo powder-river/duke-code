@@ -1,12 +1,18 @@
-1.  Write a method that takes in a single parameter, an array of integers, and returns a boolean.  True if the array has duplicate values.  False otherwise.
+1.  Write a method that takes in a single parameter, an array of integers, and
+    returns a boolean. True if the array has duplicate values.  False otherwise.
 
-2.  Given an integer that represents a time measured in the number of seconds since Epoch, print out a human readable timestamp (e.g. MM/DD/YYYY HH:mm:ss).
+2.  Given an integer that represents a time measured in the number of seconds since Epoch,
+    print out a human readable timestamp (e.g. MM/DD/YYYY HH:mm:ss).
 
-3.  Duke Unique IDs can be 7 digits numbers.  Or for the case of service accounts, they can be 10 digit numbers starting with a "1".  Write a regular expression that can be used to match against a valid Duke Unique ID.
+3.  Duke Unique IDs can be 7 digits numbers.
+    Or for the case of service accounts, they can be 10 digit numbers starting with a "1".
+    Write a regular expression that can be used to match against a valid Duke Unique ID.
 
 4.  Write a recursive method that calculates the factorial of an integer.
 
-5.  Give an example of a design pattern you've used in the past and how it helped solve a problem.
+5.  Give an example of a design pattern you've used in the past and how it helped
+    solve a problem.
 
 
-Try the programming questions using one or more of the following languages - Java, Python, Ruby, and/or Perl.
+Try the programming questions using one or more of the following languages -
+Java, Python, Ruby, and/or Perl.
