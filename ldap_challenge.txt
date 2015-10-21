@@ -1,0 +1,34 @@
+I connected to the Duke network as an anonymous user using jxplorer.
+If I am interpreting the directions correctly it appears that the text below is an
+example of some of the information I can view as an anonymous user.
+
+It looks like basic info such as username, status at duke (in this case a professor)
+a contact email and what appears to be a work address. Also several ids relevent to
+the DB can be seen
+
+
+
+displayName	                     Robert Brown, Ph.D.
+duAcMailboxExists	               1
+duDukeID	                       0009960
+duDukeidHistory	                 0009960
+duEligible        	             oraclecalendar
+duLDAPKey	                       000e8b50-1dd2-11b2-b5a5-9442cd793b76
+duMiddleName1	                   G
+duSAPCompany	                   0010
+duSAPCompanyDesc	               Duke University
+duSAPOrgUnit	                   50000518
+eduPersonAffiliation	           faculty
+eduPersonPrimaryAffiliation	     faculty
+eduPersonPrincipalName	         rgb@duke.edu
+facsimileTelephoneNumber	       +1 919 660 2525
+givenName	                       Robert
+loginShell	                     /bin/tcsh
+mail	                           rgb@phy.duke.edu
+ntUserHomeDir	                   //homedir.win.duke.edu/users/r/rgb
+ou	                             Physics
+postalAddress	                   Box 90305$Durham, NC 27708-0305
+postOfficeBox	                   Box 90305$260 Physics$Durham, NC 27708-0305
+telephoneNumber	                 +1 919 660 2567
+telephoneNumber	                 +1 919 280 8443
+title	                           Lecturer, Univ
